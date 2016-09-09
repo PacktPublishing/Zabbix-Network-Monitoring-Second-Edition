@@ -1,4 +1,4 @@
-# Zabbix-Network-Monitoring-Second-Edition
+# Zabbix Network Monitoring Second Edition
 [Zabbix Network Monitoring Second Edition](https://www.packtpub.com/networking-and-servers/zabbix-network-monitoring-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781782161288) by Packt Publishing
 
 ##Instructions and Navigation
