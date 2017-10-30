@@ -7,7 +7,7 @@ This is the code repository for [Zabbix Network Monitoring Second Edition](https
 This book isn't heavy on code - there are just a few script snippets here and there. To figure out how to use them, please consult the corresponding chapter.
 ```
 
-##Related Zabbix Network Monitoring Products:
+## Related Zabbix Network Monitoring Products:
 * [Mastering Zabbix](https://www.packtpub.com/networking-and-servers/mastering-zabbix?utm_source=github&utm_medium=repository&utm_campaign=9781783283491)
 * [Zabbix Network Monitoring Essentials](https://www.packtpub.com/networking-and-servers/zabbix-network-monitoring-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781784399764)
 * [Zabbix Network Monitoring Essentials [Video]](https://www.packtpub.com/networking-and-servers/zabbix-network-monitoring-essentials-video?utm_source=github&utm_medium=repository&utm_campaign=9781782165507)
